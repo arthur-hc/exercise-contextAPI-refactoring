@@ -1,6 +1,5 @@
 // src/Cars.jsx
 
-import PropTypes from 'prop-types';
 import React from 'react';
 import carBlue from './images/carBlue.jpeg';
 import carRed from './images/carRed.jpeg';
